@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://chalk-hugo-demo.onrender.com/'
 languageCode = 'en-us'
 title = 'Chalk theme ported to Hugo'
 theme= 'chalk'
